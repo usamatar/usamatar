@@ -1,4 +1,4 @@
-# :wave: Hello there! I'm Usama Tariq
+# :wave: Hello There! I'm Usama Tariq
 
 ## I am a Freshman in Computer Science and a Web Developer
 
