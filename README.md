@@ -1,16 +1,18 @@
-# :wave: Hello There! I'm Usama Tariq
+# 👋 Hello There! I'm Usama Tariq  
 
-## I am a Freshman in Computer Science and a Web Developer
+## 🎓 Fresh Graduate in Computer Science | Web Developer  
 
-Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently, I'm focused on building skills in web development, and I love working with front-end technologies.
+Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in programming and modern web technologies. I thrive on solving complex problems and enjoy learning new tools and frameworks to build impactful projects.  
 
-- :office: **Currently Learning**: Full-stack Web Development
-- :seedling: **Working On**: Personal projects using ReactJS, Redux, and more
-- :speech_balloon: **I enjoy talking about**: Web Development, JavaScript, React, and Front-end Frameworks
+- 🚀 **Currently Exploring**: Full-Stack Web Development  
+- 🛠️ **Working On**: Personal projects using ReactJS, Redux, Node.js, and Express.js  
+- 💬 **I enjoy talking about**: JavaScript, React, RESTful APIs, and Full-Stack Development  
 
-## 🔧 Languages & Tools I Use
+---
 
-Here are the tools and technologies that I work with and enjoy the most:
+## 🔧 Technologies & Tools  
+
+Here are the tools and technologies I work with and enjoy the most:  
 
 <table>
   <tr>
@@ -28,18 +30,6 @@ Here are the tools and technologies that I work with and enjoy the most:
     </td>
     <td align="center" width="96">
       <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
@@ -52,9 +42,15 @@ Here are the tools and technologies that I work with and enjoy the most:
     </td>
     <td align="center" width="96">
       <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>SCSS
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="#usama-tech">
@@ -62,27 +58,65 @@ Here are the tools and technologies that I work with and enjoy the most:
       </a>
       <br>Redux
     </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
+      </a>
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
 </table>
 
-## 📈 My Coding Stats
+---
 
-Here's a visual representation of my recent coding activity:
+## 📈 My GitHub Stats  
 
-<!-- GitHub Stats: -->
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaTariq&show_icons=true&count_private=true&theme=radical)
-
-## 🏆 GitHub Achievements
-
-- **Contributions**: I actively contribute to open-source projects and share my own work.
-- **Followers**: I’m building a growing community of fellow developers and learners.
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaTariq&show_icons=true&count_private=true&theme=radical)  
 
 ---
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or if you want to collaborate!
+## 🏆 Achievements  
 
-🔗 [My Portfolio](https://portfolio.com)
+- **Building Personal Projects**: Showcasing skills with real-world applications using React, Node.js, and more.  
+- **Open Source Contributions**: Actively contributing to and learning from open-source projects.  
+- **Community Engagement**: Collaborating with fellow developers to share knowledge and improve skills.  
 
 ---
 
-Made with ❤️ by Usama Tariq
+Feel free to explore my repositories and connect with me for collaboration or discussions!   
+
+---
+
+Made with ❤️ by Usama Tariq  
