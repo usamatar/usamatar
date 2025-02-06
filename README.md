@@ -1,8 +1,10 @@
+Here’s your updated GitHub profile README with the requested changes:  
+
 # 👋 Hello There! I'm Usama Tariq  
 
-## 🎓 Fresh Graduate in Computer Science | Web Developer  
+## 🎓 Fresh Graduate in Computer Science | Software Engineer  
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in programming and modern web technologies. I thrive on solving complex problems and enjoy learning new tools and frameworks to build impactful projects.  
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in programming and modern web technologies. I thrive on solving complex problems and enjoy learning new tools and frameworks to build impactful projects.  
 
 - 🚀 **Currently Exploring**: Full-Stack Web Development  
 - 🛠️ **Working On**: Personal projects using ReactJS, Redux, Node.js, and Express.js  
@@ -27,6 +29,12 @@ Here are the tools and technologies I work with and enjoy the most:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#usama-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#usama-tech">
@@ -58,14 +66,14 @@ Here are the tools and technologies I work with and enjoy the most:
       </a>
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#usama-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#usama-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
@@ -115,8 +123,10 @@ Here are the tools and technologies I work with and enjoy the most:
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration or discussions!   
+Feel free to explore my repositories and connect with me for collaboration or discussions!  
 
 ---
 
 Made with ❤️ by Usama Tariq  
+
+Let me know if you need any further modifications! 🚀
