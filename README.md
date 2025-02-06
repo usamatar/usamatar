@@ -127,6 +127,4 @@ Feel free to explore my repositories and connect with me for collaboration or di
 
 ---
 
-Made with ❤️ by Usama Tariq  
-
-Let me know if you need any further modifications! 🚀
+Made with ❤️ by Usama Tariq🚀
