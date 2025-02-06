@@ -1,5 +1,3 @@
-Here’s your updated GitHub profile README with the requested changes:  
-
 # 👋 Hello There! I'm Usama Tariq  
 
 ## 🎓 Fresh Graduate in Computer Science | Software Engineer  
