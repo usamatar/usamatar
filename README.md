@@ -1,128 +1,131 @@
-# 👋 Hello There! I'm Usama Tariq  
 
-## 🎓 Fresh Graduate in Computer Science | Software Engineer  
-
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in programming and modern web technologies. I thrive on solving complex problems and enjoy learning new tools and frameworks to build impactful projects.  
-
-- 🚀 **Currently Exploring**: Full-Stack Web Development  
-- 🛠️ **Working On**: Personal projects using ReactJS, Redux, Node.js, and Express.js  
-- 💬 **I enjoy talking about**: JavaScript, React, RESTful APIs, and Full-Stack Development  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=200&section=header&text=Hi%20👋,%20I'm%20Usama%20Tariq&fontSize=42&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=75&descAlign=50" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&width=500&height=100&lines=Fresh+CS+Graduate+%7C+AI+Projects+%26+MERN+Apps;Love+building+secure%2C+scalable+web+solutions;Real-time+Systems+%7C+Security+Tools+%7C+Chatbots" />
+</div>
 
 ---
 
-## 🔧 Technologies & Tools  
+### 👨‍💻 About Me
 
-Here are the tools and technologies I work with and enjoy the most:  
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Usama Tariq"
+        self.role = "Full Stack Developer | AI Enthusiast"
+        self.focus = ["MERN Stack", "AI Projects", "Security Tools"]
+        self.location = "Lahore, Pakistan"
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="ReactJS" />
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
-      </a>
-      <br>SCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#usama-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-  </tr>
-</table>
+    def say_hi(self):
+        print("Thanks for checking out my profile! Let's collaborate on something impactful!")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ---
 
-## 📈 My GitHub Stats  
+### 🛠️ Tech Stack
 
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaTariq&show_icons=true&count_private=true&theme=radical)  
+<details>
+<summary>Languages & Frameworks</summary>
+
+<div align="center">
+
+| Language/Framework | Proficiency |
+|--------------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ████████░░ |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ███████░░░ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ████████░░ |
+| ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ████████░░ |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ████████░░ |
+| ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ███████░░░ |
+
+</div>
+</details>
+
+<details>
+<summary>Databases & Tools</summary>
+
+<div align="center">
+
+| Tool | Proficiency |
+|------|-------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ████████░░ |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | █████████░ |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ████████░░ |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | █████████░ |
+
+</div>
+</details>
 
 ---
 
-## 🏆 Achievements  
+### 🚀 Highlight Projects
 
-- **Building Personal Projects**: Showcasing skills with real-world applications using React, Node.js, and more.  
-- **Open Source Contributions**: Actively contributing to and learning from open-source projects.  
-- **Community Engagement**: Collaborating with fellow developers to share knowledge and improve skills.  
+- **SubSync**  
+  🔐 Authentication and subscription RESTful APIs using Express.js + MongoDB  
+  ✅ JWT auth, role-based access, data validation, error handling
+
+- **AI Nexus**  
+  🤖 Real-time AI chatbot built with the MERN stack  
+  🧠 AI API integration, seamless UI/UX for intelligent interactions
+
+- **ReAct Agent**  
+  📊 AI Query System with Groq API and memory-based dynamic execution  
+  ⚙️ Context-aware memory, accurate real-time data handling
+
+- **Vulnerability Assessment Tool (FYP)**  
+  🛡️ Python & Django security tool for detecting XSS, LFI, RFI, SQL Injection  
+  📋 Security reports with recommended mitigations
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration or discussions!  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=usamatar&theme=react&hide_border=true&fire=DD2727" alt="Streak Stats" />
+  <br><br>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamatar&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-Made with ❤️ by Usama Tariq🚀
+### 🎯 Current Focus
+
+```text
+MERN Stack Development     ███████████████████░   85%
+AI Tools & Chatbots        ████████████████░░░   75%
+Security Tools             ████████████░░░░░░░   60%
+Real-time Applications     ███████████░░░░░░░░   50%
+Learning & Experimentation ██████████░░░░░░░░░   45%
+```
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:osamatariq175@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/usama-tariq-39a7bb219/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/usamatar">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=100&section=footer&rotate=10" width="100%" />
+</div>
