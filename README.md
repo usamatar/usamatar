@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,13,14,15,16,17,18,19&height=200&section=header&text=Hi%20👋,%20I'm%20Usama%20Tariq&fontSize=42&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=75&descAlign=50" width="100%" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&width=500&height=100&lines=Fresh+CS+Graduate+%7C+AI+Projects+%26+MERN+Apps;Love+building+secure%2C+scalable+web+solutions;Real-time+Systems+%7C+Security+Tools+%7C+Chatbots" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7BA5F7&center=true&vCenter=true&width=600&height=100&lines=Fresh+CS+Graduate+%7C+AI+Projects+%26+MERN+Apps;Love+building+secure%2C+scalable+web+solutions;Real-time+Systems+%7C+Security+Tools+%7C+Chatbots" />
+
 </div>
 
 ---
